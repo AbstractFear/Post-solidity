@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@openzeppelin/contracts": "^2.5.0",
     "solidity-util": "github:willitscale/solidity-util"
   }
 }
